@@ -1,6 +1,7 @@
 Sidebar: staffing-req-sidebar
 Breadcrumb: [MITDP Oversight](overview.md)
-Meta title: As of July 2026, all Major IT Development Projects (MITDPs) are required to have filled specific project leadership roles to drive successful project outcomes and optimize state investments in technology. This increases the likelihood that projects will deliver functional solutions for users.
+Meta title: Staffing Requirements | Major IT Development Project (MITDP) Oversight | State of Maryland
+Description: As of July 2026, all Major IT Development Projects (MITDPs) are required to have filled specific project leadership roles to drive successful project outcomes and optimize state investments in technology. This increases the likelihood that projects will deliver functional solutions for users.
 Image: /midtp/images/mitdp-team-roles.jpg
 
 # MITDP Staffing Requirements
