@@ -108,6 +108,7 @@ The person in this role has the authority to serve as the strategic owner of dev
 * Ensuring the team is always working on the highest value outcome and that progress against outcomes is validated with quantitative and qualitative evidence.
 
 **Qualifications**
+
 8+ years of experience in product delivery experience with:
 * Leading product teams supporting systems that are in production, particularly at a similar scale to the project
 * Leading product teams launching new products or capabilities
@@ -133,6 +134,7 @@ The person in this role has the **authority** to control the code and the infras
 * Responsible for vetting and selecting specific technical solutions for meeting product requirements.
 
 **Qualifications**
+
 8+ years of experience with software development
 
 Experience with:
